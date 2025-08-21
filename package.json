@@ -1,0 +1,27 @@
+{
+  "name": "hotelms",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "echo \"(Add ESLint/Prettier if desired)\""
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.4",
+    "laravel-vite-plugin": "^1.0.5",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9",
+    "vite": "^5.3.3"
+  },
+  "dependencies": {
+    "alpinejs": "^3.14.0",
+    "chart.js": "^4.4.3",
+    "dayjs": "^1.11.11",
+    "laravel-echo": "^1.16.1",
+    "pusher-js": "^8.4.0"
+  }
+}
